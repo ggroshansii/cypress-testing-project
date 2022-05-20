@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ggroshansii/cypress-testing-project/issues"
   },
-  "homepage": "https://github.com/ggroshansii/cypress-testing-project#readme"
+  "homepage": "https://github.com/ggroshansii/cypress-testing-project#readme",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
 }
